@@ -50,6 +50,10 @@ Imagine you have an MP3 named "History_Lecture.mp3". Here’s how you Bookify it
 list to this lecture
 
 
+https://github.com/BDR-Pro/Bookify/assets/91114465/355298a1-9d0c-4eb5-8036-64cd67c899da
+
+
+
 the result is 
 
 ```
