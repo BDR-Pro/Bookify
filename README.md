@@ -26,12 +26,12 @@ Here’s the lowdown on turning your lectures from yawn to yay:
 Got an MP3 of your lecture? Sweet. If not, hit record in your next class (with permission, obvs). 
 
 ### 2. Upload to Bookify 📤
-- **Place your MP3 here:** Just drag and drop your file into the 'Upload' box on our app. Placeholder for your MP3? Right here. `[Upload your MP3 file]`
+- **Place your MP3 here:** Just copy Youtube Link Or Mp3 file path`
 
 ### 3. Choose Your Potion 🧪
 - **Textify:** Convert your MP3 to text.
 - **PDF Magic:** Turn that text into a PDF.
-- **Audio Vibes:** Create an audio file from the text.
+- **Audio Vibes:** Create an audio file along with the text.
 
 ### Example Time! 🌟
 Imagine you have an MP3 named "History_Lecture.mp3". Here’s how you Bookify it:
