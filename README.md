@@ -26,7 +26,7 @@ Here’s the lowdown on turning your lectures from yawn to yay:
 Got an MP3 of your lecture? Sweet. If not, hit record in your next class (with permission, obvs). 
 
 ### 2. Upload to Bookify 📤
-- **Place your MP3 here:** Just copy Youtube Link Or Mp3 file path`
+- **Place your MP3 here:** Just copy Youtube Link Or Mp3 file path
 
 ### 3. Choose Your Potion 🧪
 - **Textify:** Convert your MP3 to text.
