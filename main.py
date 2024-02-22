@@ -1,8 +1,11 @@
 from gradio_client import Client
 from pytube import YouTube
-link="https://www.youtube.com/watch?v=nY1gLtj7Sso&ab_channel=%D8%AC%D9%88%D8%A7%D9%87%D8%B1%D8%B9%D8%AF%D9%86%D8%A7%D9%86%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85"
-
+link = "https://www.youtube.com/watch?v=zGM-CXcNiDU&ab_channel=ShellCon"
 def fix_arabic(text):
+    #if arabic fix
+    from langdetect import detect
+    if not detect(text) == 'ar':
+        return text
     from arabic_reshaper import reshape
     from bidi.algorithm import get_display
     return get_display(reshape(text))
