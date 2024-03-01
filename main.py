@@ -1,6 +1,11 @@
 from gradio_client import Client
 from pytube import YouTube
-link = "https://www.youtube.com/watch?v=zGM-CXcNiDU&ab_channel=ShellCon"
+#load the link form .env file
+import os
+from dotenv import load_dotenv
+load_dotenv()
+link = os.getenv("LINK")
+
 def fix_arabic(text):
     #if arabic fix
     from langdetect import detect
